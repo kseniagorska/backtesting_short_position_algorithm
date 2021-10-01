@@ -1,0 +1,1 @@
+# backtesting_short_position_algorithm
